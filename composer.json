@@ -1,0 +1,13 @@
+{
+    "name": "rusi/test-project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            
+            "": "src/"
+        }
+    },
+    "require": {}
+}
