@@ -15,3 +15,5 @@ vendor\bin\phpunit CalculatorTest.php
 ```bash
 vendor/bin/phpunit
 ```
+
+![Sample Test](sample.png)
