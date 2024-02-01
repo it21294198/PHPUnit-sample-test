@@ -8,7 +8,7 @@ composer dump-autoload
 
 ### 2 step : Run Test
 ```bash
-vendor\bin\phpunit CalculatorTest.php
+vendor\bin\phpunit test\CalculatorTest.php
 ```
 
 ### If faild
